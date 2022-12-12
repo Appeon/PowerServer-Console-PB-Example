@@ -25,12 +25,14 @@ Download this PowerBuilder demo application, and then:
 1. Open the PowerBuilder application in PowerBuilder 2022.
 
 2. In the PowerServerConsole.ini file, configure your PowerSever API Server URL.
+
+```bash
 [Setting]
 APIHost = https://demo.appeon.com:443/api.sales
 EnableAuthentication= false
 
 Note: If your PowerSever API Server uses Auth Service, please set EnableAuthentication = True in PowerServerConsole.ini and modify the f_Authorization() code in the application to be consistent with your PowerServer API Server.
-
+```
 3. Run the PowerBuilder application.
 
 4. You can then monitor and manage your PowerServer API Server using this console.
