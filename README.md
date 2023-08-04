@@ -1,6 +1,6 @@
 ﻿# PowerServer-Console-PB-Example
 
-This demo is a PowerBuilder application, developed with Appeon [PowerBuilder 2022](https://www.appeon.com/products/powerbuilder). It shows: 
+This demo is a PowerBuilder application, developed with Appeon [PowerBuilder 2022 R2](https://www.appeon.com/products/powerbuilder). It shows: 
 
 1. Displaying the current PowerServer license and instance information.
 2. Configuration management including the management of applications and connections.
@@ -22,7 +22,7 @@ The project is structured as follows.
 
 Download this PowerBuilder demo application, and then:
 
-1. Open the PowerBuilder application in PowerBuilder 2022.
+1. Open the PowerBuilder application in PowerBuilder 2022 R2.
 
 2. In the PowerServerConsole.ini file, configure your PowerSever API Server URL.
 
